@@ -1,2 +1,2 @@
-# Left-RIght-Center-Game
+# Left-Right-Center-Game
 This is my first project so I created a left right center dot game 
